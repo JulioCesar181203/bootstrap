@@ -1,0 +1,11 @@
+#botao {
+  display: flex;
+  justify-content: space-around;
+  align-items: center; }
+  #botao div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 30%; }
+
+/*# sourceMappingURL=style.css.map */
